@@ -22,7 +22,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         let rootViewController = mainViewController()
         
-        window?.rootViewController = rootViewController
+//        window?.rootViewController = rootViewController
         
         
         
